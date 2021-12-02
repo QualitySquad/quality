@@ -90,7 +90,7 @@ https://user-images.githubusercontent.com/71859464/142242725-fa2b280b-4e4b-4a2f-
 
 ## Relatório de teste:
 
-Para melhor visualização dos resultados dos testes, adicionamos ao nosso projeto a biblioteca Allure que gera um formulário web com as informações dos testes, para executar, siga o passo abaixo:
+Para melhor visualização dos resultados dos testes, adicionamos ao nosso projeto a biblioteca Allure que gera um formulário web com as informações dos testes. Para executar, siga o passo abaixo:
 
 Comando:
  - Abra seu terminal e digite o seguinte comando: 
